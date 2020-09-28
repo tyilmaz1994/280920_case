@@ -1,0 +1,6 @@
+.vs
+build
+src/shoppingCard.core/obj
+src/shoppingCard.documents/obj
+src/shoppingCard.tests/obj
+src/shoppingCard/obj
